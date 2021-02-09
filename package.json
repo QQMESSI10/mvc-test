@@ -1,0 +1,12 @@
+{
+  "name": "mvc-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:QQMESSI10/mvc-test.git",
+  "author": "QQMESSI <15163281896@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "vue": "^2.6.12"
+  }
+}
